@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
 
-## projeto funciona rodando o comando npx json-server --watch db.json
+## projeto funciona rodando o comando *npx json-server --watch db.json*
 
 ## Tecnologias utilizadas durante o curso
 * Javascript
